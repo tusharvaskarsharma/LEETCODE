@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0520-detect-capital/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Backtracking
@@ -74,4 +75,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
