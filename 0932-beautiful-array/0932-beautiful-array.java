@@ -1,10 +1,6 @@
 import java.util.ArrayList;
 class Solution {
     public int[] beautifulArray(int n) {
-        if (n==1){
-            int arrr[] = {1};
-            return arrr;
-        }
         ArrayList<Integer> arr = new ArrayList<>();
         arr.add(1);
         
