@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0896-monotonic-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -39,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
