@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0896-monotonic-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Math
 | Problem Name | Difficulty |
