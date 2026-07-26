@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
+| [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0932-beautiful-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0932-beautiful-array/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
+| [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +109,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
