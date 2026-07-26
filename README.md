@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0932-beautiful-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 | [3151-special-array-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3151-special-array-i/) | Easy |
 ## Greedy
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
 | [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
