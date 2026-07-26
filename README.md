@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0367-valid-perfect-square](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
 | [0932-beautiful-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0932-beautiful-array/) | Medium |
 ## Simulation
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
+| [0367-valid-perfect-square](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
