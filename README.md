@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
+| [0682-baseball-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
+| [0682-baseball-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
@@ -143,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
