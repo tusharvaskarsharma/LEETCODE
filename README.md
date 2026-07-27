@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-smallest-range-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0908-smallest-range-i/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0932-beautiful-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0932-beautiful-array/) | Medium |
+| [0941-valid-mountain-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0941-valid-mountain-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
