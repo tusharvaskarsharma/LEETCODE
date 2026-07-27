@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-valid-mountain-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0941-valid-mountain-array/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0821-shortest-distance-to-a-character](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
