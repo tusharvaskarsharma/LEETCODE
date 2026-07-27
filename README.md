@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
