@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
+| [0999-available-captures-for-rook](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
