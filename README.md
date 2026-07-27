@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0932-beautiful-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0932-beautiful-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
