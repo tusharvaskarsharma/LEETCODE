@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0860-lemonade-change](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
