@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1037-valid-boomerang/) | Easy |
 | [1046-last-stone-weight](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1051-height-checker/) | Easy |
+| [1089-duplicate-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1089-duplicate-zeros/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1089-duplicate-zeros/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
