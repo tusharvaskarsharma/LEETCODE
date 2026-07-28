@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-check-if-it-is-a-straight-line](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1437-check-if-all-1s-are-at-least-length-k-places-away/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
