@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1037-valid-boomerang](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1037-valid-boomerang/) | Easy |
 | [1046-last-stone-weight](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
+| [1051-height-checker](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -74,11 +75,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1051-height-checker](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
+| [1051-height-checker](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1051-height-checker/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
