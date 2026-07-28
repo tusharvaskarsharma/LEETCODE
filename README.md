@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [0860-lemonade-change](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
+| [0881-boats-to-save-people](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [0896-monotonic-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0908-smallest-range-i/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0860-lemonade-change](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [0881-boats-to-save-people](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0881-boats-to-save-people](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
+| [0881-boats-to-save-people](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1089-duplicate-zeros/) | Easy |
