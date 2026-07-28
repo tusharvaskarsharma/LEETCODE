@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1089-duplicate-zeros/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1051-height-checker/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -132,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0520-detect-capital/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
