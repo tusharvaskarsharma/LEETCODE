@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1089-duplicate-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1089-duplicate-zeros/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-beautiful-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0932-beautiful-array/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1037-valid-boomerang](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1037-valid-boomerang/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0812-largest-triangle-area/) | Easy |
 | [1037-valid-boomerang](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1037-valid-boomerang/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
