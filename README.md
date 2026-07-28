@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1051-height-checker](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1051-height-checker/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
