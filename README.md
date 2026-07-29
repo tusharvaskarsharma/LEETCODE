@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-check-if-it-is-a-straight-line](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3516-find-closest-person](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3516-find-closest-person/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
