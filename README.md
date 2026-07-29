@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3151-special-array-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3151-special-array-i/) | Easy |
 | [3379-transformed-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3379-transformed-array/) | Easy |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
