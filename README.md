@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 | [3151-special-array-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3151-special-array-i/) | Easy |
+| [3379-transformed-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3379-transformed-array/) | Easy |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3392-count-subarrays-of-length-three-with-a-condition/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3379-transformed-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
