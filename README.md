@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 | [3151-special-array-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3151-special-array-i/) | Easy |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Greedy
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-number-of-equivalent-domino-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
