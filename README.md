@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
