@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0027-remove-element/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 | [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0520-detect-capital/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -257,4 +259,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
