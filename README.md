@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-check-if-it-is-a-straight-line](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3516-find-closest-person/) | Easy |
 ## Simulation
