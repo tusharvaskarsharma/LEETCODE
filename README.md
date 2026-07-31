@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0066-plus-one/) | Easy |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
+| [0048-rotate-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
