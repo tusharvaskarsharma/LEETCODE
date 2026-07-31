@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0661-image-smoother](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0682-baseball-game/) | Easy |
+| [0697-degree-of-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0717-1-bit-and-2-bit-characters/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
+| [0697-degree-of-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0697-degree-of-an-array/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
