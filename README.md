@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0704-binary-search/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0645-set-mismatch](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0136-single-number/) | Easy |
+| [0645-set-mismatch](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Math
