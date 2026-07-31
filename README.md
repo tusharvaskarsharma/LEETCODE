@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
