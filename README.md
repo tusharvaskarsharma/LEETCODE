@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0136-single-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
