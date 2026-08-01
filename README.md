@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0136-single-number/) | Easy |
+| [0164-maximum-gap](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0164-maximum-gap/) | Medium |
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0164-maximum-gap](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0164-maximum-gap/) | Medium |
 | [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
@@ -352,4 +354,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
