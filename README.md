@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2239-find-closest-number-to-zero/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3151-special-array-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3151-special-array-i/) | Easy |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0821-shortest-distance-to-a-character](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
