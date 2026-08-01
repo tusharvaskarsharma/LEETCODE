@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3151-special-array-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3151-special-array-i/) | Easy |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-available-captures-for-rook](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3379-transformed-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
