@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0206-reverse-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
