@@ -9,6 +9,7 @@ class Solution {
             if (height[lp] < height[rp]) lp++;
             else rp--;
         }
+        
         return max;
     }
 }
