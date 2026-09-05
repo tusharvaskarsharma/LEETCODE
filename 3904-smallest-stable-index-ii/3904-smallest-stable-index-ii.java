@@ -6,13 +6,6 @@ class Solution {
         int max[] = new int[n];
         int min[] = new int[n];
 
-        for (i=0; i<n; i++){
-            if (nums[i]>=maxn){
-                maxn = nums[i];
-            }
-            max[i] = maxn;
-        }
-
         for (i=n-1; i>=0; i--){
             if (nums[i]<=minn){
                 minn = nums[i];
@@ -20,8 +13,11 @@ class Solution {
             min[i] = minn;
         }
 
-        // 0 se n-1 tak check karenge taaki sabse PEHLA (first) stable index mile
-        for (i = 0; i < n; i++) {
+        for (i=0; i<n; i++){
+            if (nums[i]>=maxn){
+                maxn = nums[i];
+            }
+            max[i] = maxn;
             if (max[i] - min[i] <= k) { 
                 return i; // Pehla stable index milte hi yahan se return ho jao
             }
