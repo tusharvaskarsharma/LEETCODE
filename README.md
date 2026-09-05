@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0798-smallest-rotation-with-highest-score](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0798-smallest-rotation-with-highest-score/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
