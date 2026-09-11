@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0463-island-perimeter](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -370,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -405,4 +407,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
