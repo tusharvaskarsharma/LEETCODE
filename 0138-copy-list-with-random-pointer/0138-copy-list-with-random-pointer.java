@@ -17,33 +17,29 @@ class Solution {
     public Node copyRandomList(Node head) {
         if (head == null) return head;
 
-        Node newHead = new Node(head.val);
-        Node temp1 = head.next, temp2 = newHead;
-        while (temp1 != null){
-
-            Node newNode = new Node(temp1.val);
-            temp2.next = newNode;
-            temp1 = temp1.next; 
-            temp2 = temp2.next;
-    
+        Node cur = head;
+        while (cur != null){
+            Node copy = new Node(cur.val);
+            copy.next = cur.next;
+            cur.next = copy;
+            cur = copy.next;
         }
-        temp1 = head;
-        temp2 = newHead;
-        while (temp1 != null){
-            if (temp1.random == null) temp2.random = null;
-            else {
-                Node temp3 = newHead, temp4 = head;
-                while (temp1.random != temp4){
-                    temp4 = temp4.next;
-                    temp3 = temp3.next;
-                }
-                temp2.random = temp3;
-            }
 
-            temp1 = temp1.next;
-            temp2 = temp2.next;
-
+        cur = head;
+        while (cur != null){
+            if (cur.random != null) cur.next.random = cur.random.next;
+            cur = cur.next.next;
         }
+
+        cur = head;
+        Node newHead = cur.next;
+        while(cur != null){
+            Node copy = cur.next;
+            cur.next = copy.next;
+            if (copy.next != null) copy.next = copy.next.next;
+            cur = cur.next;
+        }
+
         return newHead;
     }
 }
