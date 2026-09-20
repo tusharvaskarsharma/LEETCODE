@@ -9,30 +9,59 @@
  * }
  */
 class Solution {
-    public ListNode rotate(ListNode head){
-        ListNode first = head, tail = null, temp = head;
-        while (temp.next.next != null) temp = temp.next;
-        tail = temp;
-        temp = temp.next;
-        temp.next = first;
-        tail.next = null;
-        return temp;
-    }
-    public ListNode rotateRight(ListNode head, int k) {
-        ListNode newHead = head;
-        ListNode temp = head;
+    // public ListNode rotate(ListNode head){
+    //     ListNode first = head, tail = null, temp = head;
+    //     while (temp.next.next != null) temp = temp.next;
+    //     tail = temp;
+    //     temp = temp.next;
+    //     temp.next = first;
+    //     tail.next = null;
+    //     return temp;
+    // }
+    // public ListNode rotateRight(ListNode head, int k) {
+    //     ListNode newHead = head;
+    //     ListNode temp = head;
+    //     if (k==0) return head;
+    //     if (head==null || head.next == null) return head;
+    //     int count = 0;
+
+    //     while (temp != null){
+    //         count ++;
+    //         temp = temp.next;
+    //     }
+
+    //     for(int i=1; i<=k%count; i++){
+    //         newHead = rotate(newHead);
+    //     }
+    //     return newHead;
+    // }
+
+    public ListNode rotateRight(ListNode head, int k){
         if (k==0) return head;
         if (head==null || head.next == null) return head;
-        int count = 0;
+        int count = 0, n = 0;
+        ListNode tail = null, temp = head;
 
         while (temp != null){
-            count ++;
+            n++;
             temp = temp.next;
         }
 
-        for(int i=1; i<=k%count; i++){
-            newHead = rotate(newHead);
+        int times = k%n;
+        if (times==0) return head;
+
+        temp = head;
+        while (temp.next != null){
+            count++;
+            if((n-times) == count) tail = temp;
+            temp = temp.next;
         }
+
+        ListNode newHead = tail.next;
+        temp.next = head;
+        tail.next = null;
         return newHead;
     }
+
 }
+
