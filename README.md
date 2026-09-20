@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
