@@ -37,7 +37,6 @@ class Solution {
     // }
 
     public ListNode rotateRight(ListNode head, int k){
-        if (k==0) return head;
         if (head==null || head.next == null) return head;
         int count = 0, n = 0;
         ListNode tail = null, temp = head;
