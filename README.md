@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0135-candy](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0164-maximum-gap](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0169-majority-element/) | Easy |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
+| [0135-candy](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0135-candy/) | Hard |
 | [0330-patching-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0330-patching-array/) | Hard |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0605-can-place-flowers/) | Easy |
