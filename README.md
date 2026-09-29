@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2022-convert-1d-array-into-2d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3151-special-array-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3151-special-array-i/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3487-maximum-unique-subarray-sum-after-deletion/) | Easy |
 ## Divide and Conquer
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-check-if-it-is-a-straight-line](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3516-find-closest-person/) | Easy |
@@ -336,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-available-captures-for-rook](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
