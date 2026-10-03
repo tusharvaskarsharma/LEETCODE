@@ -10,15 +10,10 @@ class Solution {
             chars[ansCount] = chars[i];
             ansCount++;
             if(count>1){
-                if(count<=9){
-                    chars[ansCount] = (char) ('0' + count);
+                String str = count.toString();
+                for(int j=0; j<str.length(); j++){
+                    chars[ansCount] = str.charAt(j);
                     ansCount++;
-                } else {
-                    String str = count.toString();
-                    for(int j=0; j<str.length(); j++){
-                        chars[ansCount] = str.charAt(j);
-                        ansCount++;
-                    }
                 }
             }
         }
