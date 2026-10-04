@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0014-longest-common-prefix/) | Easy |
+| [0067-add-binary](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0645-set-mismatch](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
