@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0598-range-addition-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0598-range-addition-ii/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0645-set-mismatch](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0697-degree-of-an-array/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0901-online-stock-span/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -415,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0496-next-greater-element-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0901-online-stock-span/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
