@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0292-nim-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0292-nim-game/) | Easy |
 | [0367-valid-perfect-square](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
 | [0598-range-addition-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0598-range-addition-ii/) | Easy |
@@ -468,4 +469,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
