@@ -1,40 +1,40 @@
 class Solution {
-    public void rightsmall(int ht[], int r[]){
-        Deque<Integer> s = new ArrayDeque<>();
-        for (int i=ht.length-1; i>=0; i--) {
-            while (!s.isEmpty() && ht[s.peek()] >= ht[i]) {
+    public int largestRectangleArea(int[] heights) {
+        int maxArea = 0;
+        int n = heights.length;
+        int nsl[] = new int[n];
+        int nsr[] = new int[n];
+
+        //next smaller height at left
+        Stack<Integer> s = new Stack<>();
+        for(int i=0; i<n; i++){
+            while(!s.isEmpty() && heights[s.peek()] >= heights[i]){
                 s.pop();
             }
-
-            r[i] = s.isEmpty() ? ht.length : s.peek();
+            if (s.isEmpty()) nsl[i] = -1;
+            else nsl[i] = s.peek();
             s.push(i);
         }
-    }
-    public void leftsmall(int ht[], int l[]){
-        Deque<Integer> s = new ArrayDeque<>();
-        for (int i=0; i<ht.length; i++) {
-            while (!s.isEmpty() && ht[s.peek()] >= ht[i]) {
+
+        //next smaller height on right
+        s = new Stack<>();
+        for(int i=n-1; i>=0; i--){
+            while(!s.isEmpty() && heights[s.peek()] >= heights[i]){
                 s.pop();
             }
-
-            l[i] = s.isEmpty() ? -1 : s.peek();
+            if (s.isEmpty()) nsr[i] = n;
+            else nsr[i] = s.peek();
             s.push(i);
         }
-    }
 
-
-    public int largestRectangleArea(int[] h) {
-        int ans = 0;
-        int right[] = new int[h.length];
-        int left[] = new int[h.length];
-        rightsmall(h, right);
-        leftsmall(h, left);
-
-        for(int i=0; i<h.length; i++){
-            int width = right[i] - left[i] - 1;
-            int area = h[i]*width;
-            ans = Math.max(ans, area);
+        //curArea
+        for(int i=0; i<n; i++){
+            int h = heights[i];
+            int w = nsr[i] - nsl[i] - 1;
+            int area = h*w;
+            if (area > maxArea) maxArea = area; 
         }
-        return ans;
+
+        return maxArea;
     }
 }
