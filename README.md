@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0561-array-partition/) | Easy |
 | [0598-range-addition-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0598-range-addition-ii/) | Easy |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0901-online-stock-span](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0901-online-stock-span/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -424,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0901-online-stock-span/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
