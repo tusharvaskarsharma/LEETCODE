@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3516-find-closest-person/) | Easy |
+| [3870-count-commas-in-range](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
