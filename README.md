@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -339,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
