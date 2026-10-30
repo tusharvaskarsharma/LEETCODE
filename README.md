@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0189-rotate-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0292-nim-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0412-fizz-buzz/) | Easy |
 | [0598-range-addition-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0598-range-addition-ii/) | Easy |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0319-bulb-switcher/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
