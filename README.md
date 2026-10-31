@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0932-beautiful-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0932-beautiful-array/) | Medium |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
