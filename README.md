@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2527-find-xor-beauty-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3046-split-the-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3046-split-the-array/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0191-number-of-1-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0832-flipping-an-image/) | Easy |
+| [2527-find-xor-beauty-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2527-find-xor-beauty-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
