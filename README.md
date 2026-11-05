@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2239-find-closest-number-to-zero](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2239-find-closest-number-to-zero/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [3379-transformed-array](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3379-transformed-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/3498-reverse-degree-of-a-string/) | Easy |
