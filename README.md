@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/tusharvaskarsharma/LEETCODE/tree/main/2390-removing-stars-from-a-string/) | Medium |
